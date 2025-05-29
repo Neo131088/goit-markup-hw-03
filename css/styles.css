@@ -120,6 +120,10 @@ width: calc((100% - 72px) /4);
 .img {
 	display: block;
 }
+.div-heading {
+	border-radius: 0 0 4px 4px;
+	padding: 32px 0;
+}
 .team-list {
 	display: flex;
 	align-items: center;
@@ -129,7 +133,9 @@ width: calc((100% - 72px) /4);
 .sec-our-team {
 	background-color: #f4f4fd;
 }
-
+.div-heading-portfolio {
+	
+}
 .sec-our-team-h {
 	font-size: 36px;
 	line-height: 1.11;
@@ -146,7 +152,7 @@ width: calc((100% - 72px) /4);
 .container {
 	display: flex;
 }
-.spysky{
+.headline-list{
 	display: flex;
 	flex-wrap: wrap;
 	column-gap: 24px;
