@@ -25,11 +25,20 @@ ul {
 	text-transform: uppercase;
 	color: #4d5ae5;
 }
-
+.header {
+	border-bottom: 1px solid #e7e9fc
+}
+.header-list {
+	display: flex;
+	gap: 40px;
+}
 nav span {
 	color: #2e2f42;
 }
-
+.header-nav{
+	display: flex;
+	align-items: center;
+}
 .nav-menu {
 	font-size: 16px;
 	font-weight: 500;
