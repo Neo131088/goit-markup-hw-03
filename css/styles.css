@@ -31,6 +31,18 @@ ul {
 .header {
 	border-bottom: 1px solid #e7e9fc
 }
+.header-ul {
+	display: flex;
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+.header-li {
+	display: flex;
+	margin-right: 40px;
+}
+.header-lic {
+	margin-right: 0;
+}
 .header-list {
 	display: flex;
 	gap: 40px;
