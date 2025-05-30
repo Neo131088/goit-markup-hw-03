@@ -158,6 +158,8 @@ width: calc((100% - 72px) /4);
 }
 .sec-our-team {
 	background-color: #f4f4fd;
+	padding-top: 120px;
+	padding-bottom: 120px;
 }
 .div-heading-portfolio {
 	width: calc((100% - 48px)/3);
@@ -173,11 +175,14 @@ width: calc((100% - 72px) /4);
 	text-transform: capitalize;
 	color: #2e2f42;
 	margin-bottom: 72px;
+	text-align: center;
 }
 
 .sec-our-team-li {
 	background-color: #ffffff;
-	border-radius: 0 0 4px;
+	border-radius: 0px 0px 4px 4px;
+	width: calc((100% - 72px)/4);
+
 }
 .container {
 	display: flex;
