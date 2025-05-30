@@ -22,8 +22,11 @@ ul {
 	font-size: 18px;
 	line-height: 117%;
 	letter-spacing: 0.03em;
+	vertical-align:middle ;
 	text-transform: uppercase;
 	color: #4d5ae5;
+	text-decoration: none;
+	margin-right: 76px;
 }
 .header {
 	border-bottom: 1px solid #e7e9fc
@@ -210,9 +213,7 @@ footer span {
 .footer-l {
 	color: #f4f4fd;
 }
-.logo-footer {
-	display: inline-block;
-}
+
 .footer-p {
 	line-height: 1.5;
 	color: #f4f4fd;
