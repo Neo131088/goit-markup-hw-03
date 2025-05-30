@@ -70,6 +70,8 @@ nav span {
 
 .section-one {
 	background-color: #2e2f42;
+	padding-top: 188px;
+	padding-bottom: 188px;
 }
 
 .section-one-h {
@@ -88,6 +90,11 @@ nav span {
 	letter-spacing: 0.04em;
 	color: #ffffff;
 	background-color: #4d5ae5;
+	min-width: 169px;
+	height: 56px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
 }
 
 .section-button:hover,
