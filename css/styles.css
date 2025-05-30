@@ -217,3 +217,6 @@ footer span {
 	letter-spacing: 0.02em;
 	max-width: 264px;
 }
+.list-a {
+	display: inline-block;
+}
