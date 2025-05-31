@@ -131,7 +131,7 @@ margin: -1px;
 border: 0;
 padding: 0;
 white-space: nowrap;
-clip-path: insert(100%);
+clip-path: inset(100%);
 clip: rect(0,0,0,0);
 overflow: hidden;
 }
@@ -145,7 +145,7 @@ align-items: center;
 	padding-bottom: 120px;
 }
 .portfolio-item{
-	width: calc((100% - 72px)/4);
+	width:calc((100% - 72px)/4);
 }
 .portfolio-h {
 	font-weight: 500;
