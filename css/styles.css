@@ -155,7 +155,6 @@ align-items: center;
 	color: #2e2f42;
 	margin-bottom: 8px;
 	text-align: center;
-	width: calc((100% - 48px)/3);
 }
 
 .portfolio-p {
@@ -164,8 +163,8 @@ align-items: center;
 	letter-spacing: 0.02em;
 	color: #434455;
 	text-align: center;
-	width: calc((100% - 48px)/3);}
-.img {
+}
+.img{
 	display: block;
 }
 .div-heading {
