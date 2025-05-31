@@ -131,9 +131,8 @@ border: 0;
 padding: 0;
 white-space: nowrap;
 clip-path: insert(100%);
-clip: rect(0 0 0 0);
+clip: rect(0,0,0,0);
 overflow: hidden;
-visibility: hidden;
 }
 .portfolio-list {
 display: flex;
@@ -164,8 +163,7 @@ align-items: center;
 	letter-spacing: 0.02em;
 	color: #434455;
 	text-align: center;
-	width: calc((100% - 48px)/3);
-}
+	width: calc((100% - 48px)/3);}
 .img {
 	display: block;
 }
@@ -220,6 +218,9 @@ align-items: center;
 	padding-left: 15px;
 }
 .header-div{
+	max-width: 1158px;
+	padding-left: 15px;
+	padding-right: 15px;
 	display: flex;
 	align-items: center;
 }
