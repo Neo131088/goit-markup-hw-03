@@ -208,7 +208,10 @@ align-items: center;
 	width: calc((100% - 48px)/3);
 }
 .container {
-	display: flex;
+	max-width: 1158px;
+	margin: 0 auto;
+	padding-right: 15px;
+	padding-left: 15px;
 }
 .headline-list{
 	display: flex;
