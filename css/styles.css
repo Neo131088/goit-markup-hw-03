@@ -40,7 +40,10 @@ ul {
 	display: flex;
 	margin-right: 40px;
 }
-
+.header-list {
+	display: flex;
+	gap: 40px;
+}
 nav span {
 	color: #2e2f42;
 }
