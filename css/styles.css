@@ -204,6 +204,9 @@ align-items: center;
 .sec-our-teams-li{
 	width: calc((100% - 48px)/3);
 }
+.imgp{
+	width: calc((100% - 48px)/3);
+}
 .container {
 	display: flex;
 }
