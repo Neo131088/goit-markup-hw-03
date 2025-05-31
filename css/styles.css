@@ -129,6 +129,7 @@ white-space: nowrap;
 clip-path: insert(100%);
 clip: rect(0 0 0 0);
 overflow: hidden;
+visibility: hidden;
 }
 .portfolio-list {
 display: flex;
