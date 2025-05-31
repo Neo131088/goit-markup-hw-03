@@ -134,7 +134,6 @@ overflow: hidden;
 display: flex;
 gap: 24px;
 align-items: center;
-width: calc((100% - 72px) /4);
 }
 .portfolio {
 	padding-top: 120px;
