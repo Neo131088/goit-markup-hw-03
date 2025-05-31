@@ -201,6 +201,9 @@ align-items: center;
 	border: 1px solid #e7e9fc;
 	width: calc((100% - 48px)/3);
 }
+.sec-our-teams-li{
+	width: calc((100% - 48px)/3);
+}
 .container {
 	display: flex;
 }
