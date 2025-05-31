@@ -226,6 +226,7 @@ footer span {
 
 .footer-l {
 	color: #f4f4fd;
+	display: inline-block;
 }
 
 .footer-p {
