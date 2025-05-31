@@ -70,6 +70,7 @@ nav span {
 
 .header-address {
 	font-style: normal;
+margin-left: auto;
 }
 
 .header-contact {
@@ -77,6 +78,8 @@ nav span {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
+	padding: 24px 0;
+display: block;
 }
 
 .header-contact:hover,
@@ -205,6 +208,7 @@ align-items: center;
 	width: calc((100% - 48px)/3);
 }
 .imgp{
+	display: block;
 	width: calc((100% - 48px)/3);
 }
 .container {
@@ -212,6 +216,10 @@ align-items: center;
 	margin: 0 auto;
 	padding-right: 15px;
 	padding-left: 15px;
+}
+.header-div{
+	display: flex;
+	align-items: center;
 }
 .headline-list{
 	display: flex;
