@@ -44,6 +44,9 @@ ul {
 	display: flex;
 	gap: 40px;
 }
+.img {
+	display: block;
+}
 nav span {
 	color: #2e2f42;
 }
