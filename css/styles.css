@@ -224,6 +224,7 @@ align-items: center;
 	padding-right: 15px;
 	display: flex;
 	align-items: center;
+	margin: 0 auto;
 }
 .headline-list{
 	display: flex;
