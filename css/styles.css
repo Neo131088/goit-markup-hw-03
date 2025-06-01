@@ -186,6 +186,7 @@ align-items: center;
 	padding: 32px 16px;
 	border: 1px solid #e7e9fc;
 	border-top: none;
+	
 }
 .sec-our-team-h {
 	font-weight: 700;
@@ -208,12 +209,10 @@ align-items: center;
 	background-color: #ffffff;
 		border-radius: 0px 0px 4px 4px;
 		border: 1px solid #e7e9fc;
-	width: calc((100%- 24px * 2) / 3);
+		width: calc((100%- 24px) / 3);
 }
 .imgp{
 	display: block;
-
-	
 }
 .container {
 	max-width: 1158px;
@@ -235,6 +234,7 @@ align-items: center;
 	flex-wrap: wrap;
 	column-gap: 24px;
 row-gap: 48px;
+
 }
 .our-portfolio {
 	padding-top: 120px;
