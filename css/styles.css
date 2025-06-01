@@ -146,12 +146,8 @@ align-items: center;
 	padding-bottom: 120px;
 }
 .portfolio-item{
-	margin-right: 24;
 	width: calc((100% - 72px) / 4);
 	list-style-type: none;
-}
-.portfolio-items{
-	margin-right: 0;
 }
 .portfolio-h {
 	font-weight: 500;
