@@ -145,7 +145,7 @@ align-items: center;
 	padding-bottom: 120px;
 }
 .portfolio-item{
-	width: calc(((100%-72px) / 4));
+	width: calc((100% - 72px) / 4);
 }
 .portfolio-h {
 	font-weight: 500;
