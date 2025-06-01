@@ -207,7 +207,8 @@ align-items: center;
 
 .sec-our-team-li {
 	background-color: #ffffff;
-	
+	border-radius: 0px 0px 4px 4px;
+	border: 1px solid #e7e9fc;
 	width: calc((100% - 72px) / 4);
 	list-style-type: none;
 }
@@ -243,7 +244,7 @@ align-items: center;
 row-gap: 48px;
 margin: 0;
 padding-left: 0;
-
+	align-items: center;
 
 }
 .our-portfolio {
