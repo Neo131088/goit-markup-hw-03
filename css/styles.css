@@ -136,6 +136,7 @@ clip: rect(0,0,0,0);
 overflow: hidden;
 }
 .portfolio-list {
+	gap: 24px;
 	display: flex;	
 margin: 0;
 padding-left: 0;
