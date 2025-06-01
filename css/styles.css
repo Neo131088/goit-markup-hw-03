@@ -136,7 +136,7 @@ clip: rect(0,0,0,0);
 overflow: hidden;
 }
 .portfolio-list {
-display: flex;
+	display: flex;
 margin: 0;
 padding-left: 0;
 align-items: center;
@@ -147,6 +147,7 @@ align-items: center;
 }
 .portfolio-item{
 	width: calc((100% - 72px) / 4);
+	list-style-type: none;
 }
 .portfolio-h {
 	font-weight: 500;
@@ -176,7 +177,7 @@ align-items: center;
 .team-list {
 	display: flex;
 	align-items: center;
-	gap: 24px;
+	
 }
 .sec-our-team {
 	background-color: #f4f4fd;
@@ -205,9 +206,11 @@ align-items: center;
 	border-radius: 0px 0px 4px 4px;
 	border: 1px solid #e7e9fc;
 	width: calc((100% - 72px) / 4);
+	list-style-type: none;
 }
 .sec-our-teams-li{
 	background-color: #ffffff;
+	list-style-type: none;
 		width: calc((100% - 24px) / 3);
 }
 .imgp{
@@ -219,6 +222,8 @@ align-items: center;
 	padding-right: 15px;
 	padding-left: 15px;
 	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 .header-div{
 	max-width: 1158px;
