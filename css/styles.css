@@ -238,6 +238,7 @@ overflow: hidden;
 }
 .imgp{
 	display: block;
+	height: 300px;
 }
 
 .header-div{
